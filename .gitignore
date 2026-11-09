@@ -1,0 +1,11 @@
+.theos/
+packages/
+*.dylib
+*.deb
+*.o
+*.a
+*.orig
+dump.cs
+Goc
+Unlock/Goc
+Unlock/dump.cs
